@@ -86,4 +86,4 @@ The study demonstrates that ML and DL models can identify sepsis early, improvin
 
 Random Forest + Survival Analysis strike a strong balance of accuracy and interpretability for clinical adoption.
 
-The approach provides a standardized risk score, reducing reliance on subjective clinical judgment.
+The approach provides a standardized risk score, reducing reliance on subjective clinical judgment .
