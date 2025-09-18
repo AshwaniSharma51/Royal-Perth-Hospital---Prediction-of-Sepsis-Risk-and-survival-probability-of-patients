@@ -39,7 +39,7 @@ Survival Analysis: Cox Proportional Hazards, CoxNet, Random Survival Forests, Gr
 
 4. Evaluation Metrics
 ML & DL: Balanced Accuracy, Precision, Recall, F1-score, AUROC.
-Survival Models: Concordance Index (C-index), Integrated Brier Score (IBS).
+Survival Models: Concordance Index (C-index), Integrated Brier Score (IBS)..
 
 ### Results
 Traditional ML (Best: Random Forest @ t2, top 20 features)
